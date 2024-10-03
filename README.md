@@ -11,13 +11,13 @@
 <div align="center">
   <a href="https://github.com/grafana/plugin-tools/actions/workflows/ci.yml">
     <img src="https://github.com/grafana/plugin-tools/actions/workflows/ci.yml/badge.svg" alt="Node CI" />
-  </a>&nbsp;
+  </a> 
   <a href="https://nodejs.org">
     <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&amp;logo=npm&amp;logoColor=white" alt="NPM" />
-  </a>&nbsp;
+  </a> 
   <a href="https://nx.dev/">
     <img src="https://img.shields.io/badge/nx-143055?style=for-the-badge&amp;logo=nx&amp;logoColor=white" alt="Nx" />
-  </a>&nbsp;
+  </a> 
   <a href="https://github.com/intuit/auto">
     <img src="https://img.shields.io/badge/release-auto.svg?colorA=888888&amp;colorB=9B065A&amp;label=auto" alt="Auto Release" />
   </a>
